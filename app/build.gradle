@@ -29,6 +29,7 @@ android {
     dataBinding {
         enabled true
     }
+    namespace 'com.zebra.jamesswinton.togglenullkeyboard'
     compileOptions {
         sourceCompatibility = '1.8'
         targetCompatibility = '1.8'
